@@ -26,3 +26,24 @@ Esta ferramenta foi criada para **fins educacionais e auditoria de redes autoriz
 - **Python 3.8+** instalado.
 - Permissões de **Administrador**. (Necessário para acessar a tabela ARP e descobrir os endereços MAC).
 
+- ## ⚠️ Aviso Legal e Uso Responsável
+
+**Esta ferramenta é para fins EDUCACIONAIS e AUDITORIA em redes AUTORIZADAS.**
+
+### ✅ Você PODE usar para:
+- Escanear sua PRÓPRIA rede doméstica
+- Auditar redes em que você tem PERMISSÃO EXPLÍCITA do proprietário
+- Estudar conceitos de redes, TCP/IP, ARP e segurança
+- Testar em laboratórios controlados (ex: VirtualBox, VMWare)
+
+### ❌ Você NÃO PODE:
+- Escanear redes de terceiros sem autorização
+- Usar para atividades maliciosas, ataques ou invasões
+- Utilizar os dados obtidos para prejudicar pessoas ou empresas
+
+**A autora não se responsabiliza por qualquer uso indevido. Você é o único responsável por suas ações.**
+
+> "Com grandes poderes vêm grandes responsabilidades." - Tio Ben (e você também, Catarina)
+
+Ao baixar, clonar ou executar esta ferramenta, você concorda com estes termos.
+
